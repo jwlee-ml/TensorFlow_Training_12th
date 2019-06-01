@@ -1,6 +1,13 @@
 # TensorFlow_Training_12th
 Tensorflow로 시작하는 딥러닝 Camp 12기 실습
 
+segmentation tfrecord files (6/1)
+
+https://drive.google.com/open?id=15IdbmA1VAyToMRW0mG9ZImkR-Ds_E2Aj
+
+https://drive.google.com/open?id=18BWKfDJosY-GmHGt1DU1QbRFuSOfyhfZ
+
+------------------------------------------------------------------------------
 
 
 Simpsons Dataset
